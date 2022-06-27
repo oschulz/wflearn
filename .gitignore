@@ -1,0 +1,7 @@
+.ipynb_checkpoints
+.slides.*
+
+/*.html
+/*.pdf
+
+/converted
